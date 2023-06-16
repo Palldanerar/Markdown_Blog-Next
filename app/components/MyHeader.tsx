@@ -4,7 +4,7 @@ import React from 'react'
 const MyHeader = () => {
   return (
     <header>
-    <div className="text-center bg-slate-800 p-2 mb-2">
+    <div className="mt-4 text-center bg-slate-800 p-2 mb-2 rounded-lg">
       <Link href="/">
         <h1 className="text-2xl text-white font-bold">Palldanerar's Blog</h1>
       </Link>
